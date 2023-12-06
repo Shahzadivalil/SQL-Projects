@@ -5,4 +5,4 @@
 Data manipulation and feature engineering is done by SQL and Visualization done by power bi
 
 
-https://github.com/Shahzadivalil/SQL-Projects/blob/main/project2.sql
+Visit Query: Go to SQL Queries
